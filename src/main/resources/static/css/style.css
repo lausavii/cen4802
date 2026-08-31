@@ -1,0 +1,30 @@
+body {
+    background-color: #eef3f8;
+}
+
+.task-card {
+    border: none;
+    border-radius: 15px;
+}
+
+.task-header {
+    background-color: #5b7cfa;
+    color: white;
+    border-radius: 15px 15px 0 0;
+}
+
+.task-item {
+    border-left: 4px solid #5b7cfa;
+    margin-bottom: 8px;
+    border-radius: 8px !important;
+}
+
+.add-section {
+    background-color: #f7f9fc;
+    border-radius: 10px;
+}
+
+.completed-task {
+    color: #6c757d;
+    text-decoration: line-through;
+}
